@@ -18,3 +18,7 @@ Welcome to my data analytics portfolio! This repository contains the projects I 
    git clone https://github.com/Anaji26/Data-Analytics-Masters-Portfolio.git
    
    **Open the files in Jupyter Notebook or Google Colab to run the code**
+
+Feel free to reach out for collaboration or feedback:
+	•	www.linkedin.com/in/anaji-kadam
+	•	Email: anajikadam35@gmail.com
